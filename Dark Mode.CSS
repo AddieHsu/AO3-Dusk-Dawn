@@ -1,0 +1,522 @@
+html {
+  background: #201a14 !important;
+}
+
+html,
+body,
+.group,
+.region,
+fieldset,
+form dl,
+textarea,
+#main .verbose legend,
+.verbose fieldset,
+.notice,
+ul.notes,
+input,
+textarea,
+table,
+th,
+td:hover,
+tr:hover,
+.symbol .question:hover,
+#modal,
+.ui-sortable li {
+  box-shadow: none;
+  transition: all 0.2s ease;
+  background: #201a14;
+  color: #EAE6E0;
+  border-color: rgba(138, 120, 106, 0.5);
+}
+
+#header #site-title {
+  background: #201a14;
+}
+
+#header .actions,
+#header ul.primary,
+#header .dropdown {
+  background: #201a14;
+  border-radius: 4px;
+  box-shadow: none;
+  transition: all 0.2s ease;
+}
+
+#header .dropdown a {
+  color: #DCD5C9;
+}
+
+#footer {
+  background: #2a241e;
+}
+
+#footer .group {
+  background: #2a241e;
+  border-radius: 4px;
+  transition: all 0.2s ease;
+}
+
+.group.listbox li,
+#main li.blurb,
+.wrapper,
+.thread .comment,
+fieldset fieldset.listbox {
+  border-radius: 4px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.group.listbox li:hover,
+#main li.blurb:hover,
+.wrapper:hover,
+.thread .comment:hover,
+fieldset fieldset.listbox:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.7);
+}
+
+.dashboard .listbox .index {
+  background: #36312a;
+  border: none;
+  box-shadow: none;
+  border-radius: 4px;
+}
+
+#main li.blurb {
+  background: #2a241e;
+}
+
+.userstuff,
+.summary {
+  border-radius: 4px;
+  padding: 0.4em;
+  transition: all 0.2s ease;
+  font-family: Georgia, 'Times New Roman', Times, serif, "FZYouSong GBK", "Songti SC", "Songti TC" !important;
+  line-height: 1.8em;
+}
+
+.actions a,
+.actions a:link,
+.actions button,
+.actions input,
+input[type="submit"],
+button {
+  background: #36312a;
+  color: #EAE6E0;
+  border-color: rgba(138, 120, 106, 0.5);
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.4);
+  border-radius: 4px;
+  transition: all 0.2s ease;
+}
+
+.actions a:hover,
+.actions button:hover,
+.actions input:hover,
+input[type="submit"]:hover,
+button:hover {
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.6);
+  background: #4a4237;
+  transform: scale(1.02);
+}
+
+input,
+textarea {
+  background: #36312a;
+  border: 1px solid rgba(138, 120, 106, 0.5);
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.6);
+  color: #EAE6E0;
+  padding: 0.4em;
+  border-radius: 4px;
+  transition: all 0.2s ease;
+}
+
+input:hover,
+textarea:hover {
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+#header #search input[type="text"]:hover,
+#header #search input[type="search"]:hover {
+  background: #36312a;
+}
+
+blockquote {
+  border-left: 4px solid #917f6d;
+  background: #36312a;
+  padding: 1em 1.2em;
+  margin: 1em 0;
+  border-radius: 4px;
+  font-style: italic;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.4);
+  transition: all 0.2s ease;
+}
+
+html body #dashboard {
+  background: #201a14;
+  color: #EAE6E0 !important;
+}
+
+#dashboard .secondary,
+#dashboard .decorative {
+  background: #4a4237;
+  border-radius: 4px;
+}
+
+a:visited,
+.actions a:visited,
+.action a:link,
+.action a:visited,
+.listbox .heading a:visited {
+  color: #917f6d;
+}
+
+.actions a:hover,
+.actions button:hover,
+.actions input:hover,
+#dashboard a:hover,
+label.action:hover,
+.action:hover,
+.actions a:focus,
+.actions button:focus,
+.actions input:focus,
+#dashboard a:focus {
+  color: #EAE6E0;
+}
+
+a,
+a:link,
+a.tag,
+#header a,
+#dashboard a,
+.heading,
+.userstuff h2 {
+  color: #DCD5C9;
+  text-shadow: none;
+  background: none;
+}
+
+.heading:not(.filters .heading):not(.listbox .heading) {
+  color: #DCD5C9;
+}
+
+#header .dropdown > a {
+  color: #DCD5C9;
+}
+
+a:hover,
+a.tag:hover {
+  color: #EAE6E0;
+  text-shadow: none;
+}
+
+#dashboard .current,
+.actions a:active,
+#outer .current,
+a.current,
+.current a:visited,
+span.unread,
+.replied,
+span.claimed,
+.own,
+.draft {
+  background: #36312a;
+  color: #EAE6E0;
+  border-color: #917f6d;
+  box-shadow: none;
+}
+
+.required .autocomplete,
+.autocomplete .notice,
+div.dynamic,
+.dynamic form,
+#ui-datepicker-div,
+.ui-datepicker table,
+.thread .even,
+#tos_prompt,
+.toggled form {
+  background: #201a14;
+  color: #EAE6E0;
+  border-color: rgba(138, 120, 106, 0.5);
+}
+
+#header .dropdown .menu a:hover,
+.ui-datepicker td:hover,
+#footer a:hover,
+.autocomplete .dropdown ul li:hover,
+.autocomplete .dropdown li.selected {
+  background: #36312a;
+  color: #EAE6E0;
+}
+
+span.requested,
+a.work,
+.blurb h4 a:link,
+a.cloud7,
+a.cloud8 {
+  color: #DCD5C9;
+}
+
+.delete a,
+span.delete {
+  color: #f0c0c0;
+  background: #4d1f1f;
+  border-color: #7a3a3a;
+  box-shadow: none;
+}
+
+.delete a:hover,
+span.delete:hover {
+  color: #f0c0c0;
+  background: #6b2a2a;
+}
+
+input:focus,
+textarea:focus {
+  background: #201a14;
+  border-color: #917f6d;
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.7);
+}
+
+.symbol .question,
+.qtip-content {
+  background: #2a241e;
+  color: #EAE6E0;
+  border-color: #4a4237;
+}
+
+table,
+th,
+#modal,
+.verbose fieldset,
+#main .verbose legend,
+ul.notes,
+fieldset fieldset {
+  background: #201a14;
+  color: #EAE6E0;
+  border-color: rgba(138, 120, 106, 0.5);
+}
+
+th {
+  background: #36312a;
+}
+
+.blurb .blurb,
+.listbox .index {
+  box-shadow: none;
+  background: #201a14;
+}
+
+.mce-container button,
+.mce-container input {
+  background: #36312a;
+  color: #EAE6E0;
+  border-color: rgba(138, 120, 106, 0.5);
+  box-shadow: none;
+}
+
+.mce-container input:focus {
+  background: #201a14;
+}
+
+.announcement .userstuff a,
+.announcement .userstuff a:link {
+  color: #DCD5C9;
+}
+
+.announcement .userstuff a:visited {
+  color: #917f6d;
+}
+
+.announcement .userstuff a:hover,
+.announcement .userstuff a:focus {
+  color: #EAE6E0;
+}
+
+a.tag,
+li.relationships a {
+  background: #2a241e;
+  color: #DCD5C9;
+  border: none;
+  box-shadow: none;
+  border-radius: 4px;
+  padding: 0.1em 0.4em;
+  text-shadow: none;
+}
+
+a.tag:hover,
+li.relationships a:hover {
+  background: #4a4237;
+  color: #EAE6E0;
+  border: none;
+  box-shadow: none;
+}
+
+.listbox .heading a.tag:visited:hover {
+  background: #4a4237;
+  color: #EAE6E0;
+}
+
+div.user.module.group > h4 {
+  background: #201a14;
+}
+
+.bookmark .user {
+  border: none;
+  box-shadow: none;
+}
+
+#main > div.wrapper {
+  background: #2a241e;
+}
+
+#workskin > div.preface.group {
+  padding: 0.5em;
+}
+
+#chapters {
+  font-size: 1.5em;
+  line-height: 1.6;
+  font-family: "Times New Roman",Georgia, Times, 
+               "FZYouSong GBK", 
+               "Songti SC",
+               serif;
+}
+
+.filters .group,
+.filters dt,
+.filters dd {
+  color: #DCD5C9;
+  border-color: rgba(138, 120, 106, 0.5) !important;
+}
+
+html body .filters .expander,
+html body .filters .heading {
+  color: #DCD5C9 !important;
+}
+
+.filters a,
+.filters a:link,
+.filters h4 a {
+  color: #DCD5C9;
+  background: none;
+}
+
+.filters a:visited {
+  color: #917f6d;
+}
+
+.filters a:hover {
+  color: #EAE6E0;
+  background: none;
+}
+
+.filters label {
+  color: #DCD5C9 !important;
+}
+
+html body #header .menu,
+html body #small_login {
+  background: #2a241e;
+  border: 1px solid rgba(138, 120, 106, 0.5);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+#header .dropdown .menu a:hover {
+  background: #36312a;
+  color: #EAE6E0;
+}
+
+html body #header .menu a,
+html body #small_login a {
+  color: #DCD5C9 !important;
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: #201a14;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #4a4237;
+  border-radius: 6px;
+  border: 2px solid #201a14;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #917f6d;
+}
+
+form .hint,
+form dd.notes,
+form .notes {
+  color: #917f6d !important;
+}
+
+html body .listbox .heading,
+html body .listbox .heading a {
+  color: #DCD5C9 !important;
+  background: none;
+}
+
+html body .listbox .heading a:visited {
+  color: #917f6d !important;
+}
+
+#outer {
+  background: #201a14;
+  border: none;
+  box-shadow: none;
+}
+
+.autocomplete .dropdown,
+.autocomplete .dropdown ul {
+  background: #2a241e !important;
+  border-color: rgba(138, 120, 106, 0.5) !important;
+}
+
+.autocomplete .dropdown ul li {
+  color: #DCD5C9 !important;
+}
+
+.autocomplete .dropdown ul li:hover,
+.autocomplete .dropdown li.selected {
+  background: #36312a;
+  color: #EAE6E0;
+}
+
+.group.listbox li {
+  border: 1px solid #4a4237;
+}
+
+#main li.blurb,
+.thread .comment {
+  border: 1px solid #4a4237;
+}
+
+.group.listbox li:hover,
+#main li.blurb:hover,
+.wrapper:hover,
+.thread .comment:hover,
+fieldset fieldset.listbox:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 2px 6px rgba(74, 66, 55, 0.7);
+}
+
+.bookmark .blurb .tags,
+.bookmark .blurb ul.tags,
+.bookmark .blurb .tags li {
+  background: #2a241e !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+dl.work.meta.group {
+  background: #2a241e;
+  border: 1px solid #4a4237;
+  border-radius: 4px;
+  padding: 1em;
+  box-shadow: none;
+}
