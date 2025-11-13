@@ -2,13 +2,21 @@
 
 ## ☀️ 浅色模式 - Dawn 预览
 
-![浅色模式截图](https://github.com/user-attachments/assets/f0c66009-7533-41c5-b102-04e85bb42d12)
-
-
+<table>
+  <tr>
+    <td><img width="564.5" height="497.5" alt="image" src="https://github.com/user-attachments/assets/f0c66009-7533-41c5-b102-04e85bb42d12"></td>
+    <td><img width="564.5" height="497.5" alt="image" src="https://github.com/user-attachments/assets/36b44de2-cc7a-4e87-8645-b36637db6030"></td>
+  </tr>
+</table>
 
 ## 🌙 深色模式 - Dusk 预览
 
-![深色模式截图](https://github.com/user-attachments/assets/89ca3ab4-607b-4dfe-b730-0e43252cf7bd)
+<table>
+  <tr>
+    <td><img width="564.5" height="497.5" alt="image" src="https://github.com/user-attachments/assets/89ca3ab4-607b-4dfe-b730-0e43252cf7bd"></td>
+    <td><img width="564.5" height="497.5" alt="image" src="https://github.com/user-attachments/assets/781f04ab-d005-4d41-a62f-5c574f4c466c"></td>
+  </tr>
+</table>
 
 
 ---
