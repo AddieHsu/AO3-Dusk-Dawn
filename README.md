@@ -44,7 +44,7 @@
 ### 第 2 步：创建深色主题
 1.  转到 **My Skins** -> **Create Site Skin**。
 2.  **Title:** `Dusk & Dawn (Dark)`（请起另一个不和其他人重复的标题2）
-3.  **CSS:** 将“Dark Mode.CSS”**中的所有代码**完整**粘贴进去。
+3.  **CSS:** 将“Dark Mode.CSS”**中的所有代码**完整粘贴进去。
 4.  **【关键步骤】**
     * 向下滚动到 **Advanced，点击Show**。
     * 在 **Media** 框中，勾选：`(prefers-color-scheme: dark)`
@@ -63,7 +63,7 @@
     * 向下滚动到 **Advanced，点击Show**。
     * 找到 **Add Parent Skin**，选择在第 1 步创建的浅色主题。
     * 再次点击 "Add Parent Skin"按钮，选择在第 2 步创建的深色主题。
-5.  点击 **Save** (保存)。
+5.  点击 **Submit** (提交)。
 ### 第 4 步：应用主题
 1.  回到 **My Skins**页面。
 2.  在 **"Your site skin"** 中，选择在第 3 步中创建的主题：`ao3 - Dusk & Dawn (Actual)`，点击 **USE**。
